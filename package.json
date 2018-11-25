@@ -10,7 +10,7 @@
   },
   "engines": {
     "node": "8.13.0"
-  },"
+  },
   "author": "C. C. Souza",
   "license": "ISC",
   "dependencies": {
