@@ -43,7 +43,7 @@ And finally run the node to *up* the REST API. In the project directory, run the
 > node server/server.js
 
 ## Testing
-With the postman or similar, make a request at http://localhost:3000/users endpoint passing the paramentros
+With the postman or similar, make a request with POST at http://localhost:3000/users endpoint passing the paramentros
 
 ```javascript
 {
